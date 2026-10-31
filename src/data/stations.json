@@ -1,0 +1,1559 @@
+[
+  {
+    "id": "st-001",
+    "name": "Barstow Supercharger & EA Hub",
+    "network": "Tesla",
+    "coordinates": [
+      -117.0264,
+      34.8958
+    ],
+    "address": "2812 Lenwood Rd",
+    "city": "Barstow",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 24,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.44/kWh",
+    "amenities": [
+      "Restrooms",
+      "Dining",
+      "Shopping"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-002",
+    "name": "Barstow Outlets Electrify America",
+    "network": "Electrify America",
+    "coordinates": [
+      -117.0205,
+      34.892
+    ],
+    "address": "2796 Tanger Way",
+    "city": "Barstow",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 10,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.48/kWh",
+    "amenities": [
+      "Dining",
+      "Shopping"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-003",
+    "name": "Baker World's Tallest Thermometer",
+    "network": "EVgo",
+    "coordinates": [
+      -116.0743,
+      35.2676
+    ],
+    "address": "72157 Baker Blvd",
+    "city": "Baker",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 12,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.45/kWh",
+    "amenities": [
+      "Restrooms",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-004",
+    "name": "Baker Supercharger Megahub",
+    "network": "Tesla",
+    "coordinates": [
+      -116.073,
+      35.269
+    ],
+    "address": "71808 Baker Blvd",
+    "city": "Baker",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 40,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Restrooms",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-005",
+    "name": "Primm Valley Resorts Charger",
+    "network": "Tesla",
+    "coordinates": [
+      -115.3879,
+      35.6111
+    ],
+    "address": "31700 S Las Vegas Blvd",
+    "city": "Primm",
+    "state": "NV",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 20,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.39/kWh",
+    "amenities": [
+      "Casino",
+      "Restrooms",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-006",
+    "name": "Jean Oasis Fast Charger",
+    "network": "ChargePoint",
+    "coordinates": [
+      -115.3268,
+      35.7797
+    ],
+    "address": "1 Goodsprings Rd",
+    "city": "Jean",
+    "state": "NV",
+    "power_type": "dc_fast",
+    "kw_output": 150,
+    "ports_count": 4,
+    "connectors": [
+      "CCS",
+      "J1772"
+    ],
+    "pricing": "$0.40/kWh",
+    "amenities": [
+      "Gas Station Mart",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-007",
+    "name": "Las Vegas South Strip Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -115.1728,
+      36.0694
+    ],
+    "address": "6605 S Las Vegas Blvd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 28,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.38/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-008",
+    "name": "Las Vegas Downtown Electrify America",
+    "network": "Electrify America",
+    "coordinates": [
+      -115.1482,
+      36.1699
+    ],
+    "address": "855 S Grand Central Pkwy",
+    "city": "Las Vegas",
+    "state": "NV",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 8,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.46/kWh",
+    "amenities": [
+      "Shopping",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-009",
+    "name": "Mesquite Travel Plaza",
+    "network": "Tesla",
+    "coordinates": [
+      -114.0722,
+      36.8044
+    ],
+    "address": "100 E Pioneer Blvd",
+    "city": "Mesquite",
+    "state": "NV",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 16,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.39/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-010",
+    "name": "St. George Utah Hub",
+    "network": "Electrify America",
+    "coordinates": [
+      -113.5684,
+      37.0965
+    ],
+    "address": "2610 Pioneer Rd",
+    "city": "St. George",
+    "state": "UT",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 8,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.44/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-011",
+    "name": "Cedar City Interstate Charger",
+    "network": "Tesla",
+    "coordinates": [
+      -113.0619,
+      37.6775
+    ],
+    "address": "1330 S Providence Center Dr",
+    "city": "Cedar City",
+    "state": "UT",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 12,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.38/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-012",
+    "name": "Beaver Utah Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -112.6391,
+      38.2769
+    ],
+    "address": "633 N Main St",
+    "city": "Beaver",
+    "state": "UT",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 24,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.37/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-013",
+    "name": "Provo Towne Centre",
+    "network": "Electrify America",
+    "coordinates": [
+      -111.6608,
+      40.2186
+    ],
+    "address": "1200 Towne Centre Blvd",
+    "city": "Provo",
+    "state": "UT",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 6,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Mall",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-014",
+    "name": "Salt Lake City Downtown Hub",
+    "network": "Tesla",
+    "coordinates": [
+      -111.891,
+      40.7608
+    ],
+    "address": "50 S Main St",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 16,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.38/kWh",
+    "amenities": [
+      "Dining",
+      "WiFi",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-015",
+    "name": "Cabazon Outlets Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -116.7865,
+      33.9208
+    ],
+    "address": "48650 Seminole Dr",
+    "city": "Cabazon",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 36,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.45/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-016",
+    "name": "Palm Springs Downtown Level 2 & Fast Hub",
+    "network": "ChargePoint",
+    "coordinates": [
+      -116.5453,
+      33.8246
+    ],
+    "address": "277 N Avenida Caballeros",
+    "city": "Palm Springs",
+    "state": "CA",
+    "power_type": "level2",
+    "kw_output": 19,
+    "ports_count": 8,
+    "connectors": [
+      "J1772"
+    ],
+    "pricing": "$0.25/kWh",
+    "amenities": [
+      "Convention Center",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-017",
+    "name": "Indio Fast Charging Oasis",
+    "network": "Electrify America",
+    "coordinates": [
+      -116.2156,
+      33.7206
+    ],
+    "address": "42100 Jackson St",
+    "city": "Indio",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 10,
+    "connectors": [
+      "CCS",
+      "CHAdeMO",
+      "NACS"
+    ],
+    "pricing": "$0.48/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-018",
+    "name": "Blythe Border Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -114.605,
+      33.6103
+    ],
+    "address": "840 W Hobsonway",
+    "city": "Blythe",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 16,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.44/kWh",
+    "amenities": [
+      "Restrooms",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-019",
+    "name": "Quartzsite Desert Hub",
+    "network": "Tesla",
+    "coordinates": [
+      -114.2252,
+      33.6595
+    ],
+    "address": "1451 W Main St",
+    "city": "Quartzsite",
+    "state": "AZ",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 36,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.36/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-020",
+    "name": "Quartzsite Travel Plaza EA",
+    "network": "Electrify America",
+    "coordinates": [
+      -114.218,
+      33.6601
+    ],
+    "address": "1450 W Main St",
+    "city": "Quartzsite",
+    "state": "AZ",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 6,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Travel Center",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-021",
+    "name": "Buckeye Gateway Charger",
+    "network": "EVgo",
+    "coordinates": [
+      -112.5838,
+      33.4417
+    ],
+    "address": "450 S Watson Rd",
+    "city": "Buckeye",
+    "state": "AZ",
+    "power_type": "dc_fast",
+    "kw_output": 150,
+    "ports_count": 6,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.40/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-022",
+    "name": "Phoenix Sky Harbor Fast Hub",
+    "network": "Electrify America",
+    "coordinates": [
+      -112.0116,
+      33.4353
+    ],
+    "address": "3400 Sky Harbor Blvd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 12,
+    "connectors": [
+      "CCS",
+      "NACS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Airport Terminal",
+      "Restrooms",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-023",
+    "name": "Scottsdale Quarter Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -111.9261,
+      33.6231
+    ],
+    "address": "15059 N Scottsdale Rd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 20,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.38/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining",
+      "WiFi"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-024",
+    "name": "Needles Route 66 Fast Charger",
+    "network": "Tesla",
+    "coordinates": [
+      -114.6144,
+      34.8481
+    ],
+    "address": "2411 W Broadway St",
+    "city": "Needles",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 12,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.46/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-025",
+    "name": "Kingman Historic Depot",
+    "network": "Electrify America",
+    "coordinates": [
+      -114.0537,
+      35.1894
+    ],
+    "address": "3320 Stockton Hill Rd",
+    "city": "Kingman",
+    "state": "AZ",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 8,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.40/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-026",
+    "name": "Seligman Route 66 Haven",
+    "network": "ChargePoint",
+    "coordinates": [
+      -112.8763,
+      35.3267
+    ],
+    "address": "22400 W Old Rte 66",
+    "city": "Seligman",
+    "state": "AZ",
+    "power_type": "level2",
+    "kw_output": 19,
+    "ports_count": 4,
+    "connectors": [
+      "J1772"
+    ],
+    "pricing": "$0.20/kWh",
+    "amenities": [
+      "Diner",
+      "Gift Shop"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-027",
+    "name": "Flagstaff Pine Canyon Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -111.6513,
+      35.1983
+    ],
+    "address": "2650 S Woodlands Village Blvd",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 16,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.39/kWh",
+    "amenities": [
+      "Dining",
+      "Grocery",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-028",
+    "name": "Holbrook Petrified Forest EA",
+    "network": "Electrify America",
+    "coordinates": [
+      -110.1585,
+      34.9022
+    ],
+    "address": "2096 Navajo Blvd",
+    "city": "Holbrook",
+    "state": "AZ",
+    "power_type": "dc_fast",
+    "kw_output": 150,
+    "ports_count": 4,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Restrooms",
+      "Fast Food"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-029",
+    "name": "Gallup Route 66 Gateway",
+    "network": "Tesla",
+    "coordinates": [
+      -108.7426,
+      35.5281
+    ],
+    "address": "810 N US Hwy 491",
+    "city": "Gallup",
+    "state": "NM",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 12,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.36/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-030",
+    "name": "Albuquerque Uptown Hub",
+    "network": "Electrify America",
+    "coordinates": [
+      -106.5684,
+      35.1018
+    ],
+    "address": "2200 Louisiana Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 10,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Mall",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-031",
+    "name": "Los Angeles Downtown Central",
+    "network": "EVgo",
+    "coordinates": [
+      -118.2437,
+      34.0522
+    ],
+    "address": "700 W 7th St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 16,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.52/kWh",
+    "amenities": [
+      "Subway",
+      "Dining",
+      "Shopping"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-032",
+    "name": "Santa Monica Pier Level 2 Hub",
+    "network": "ChargePoint",
+    "coordinates": [
+      -118.4965,
+      34.01
+    ],
+    "address": "1550 Pacific Coast Hwy",
+    "city": "Santa Monica",
+    "state": "CA",
+    "power_type": "level2",
+    "kw_output": 19,
+    "ports_count": 14,
+    "connectors": [
+      "J1772"
+    ],
+    "pricing": "$0.30/kWh",
+    "amenities": [
+      "Beach",
+      "Pier",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-033",
+    "name": "Tejon Ranch / Grapevine Mega Charger",
+    "network": "Tesla",
+    "coordinates": [
+      -118.8943,
+      34.9872
+    ],
+    "address": "5602 Dennis McCarthy Dr",
+    "city": "Lebec",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 56,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.46/kWh",
+    "amenities": [
+      "Outlets",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-034",
+    "name": "Bakersfield West Fast Hub",
+    "network": "Electrify America",
+    "coordinates": [
+      -119.0605,
+      35.3733
+    ],
+    "address": "5001 California Ave",
+    "city": "Bakersfield",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 12,
+    "connectors": [
+      "CCS",
+      "CHAdeMO",
+      "NACS"
+    ],
+    "pricing": "$0.48/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-035",
+    "name": "Kettleman City Tesla Lounge",
+    "network": "Tesla",
+    "coordinates": [
+      -119.9575,
+      35.9867
+    ],
+    "address": "27675 Bernard Dr",
+    "city": "Kettleman City",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 40,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.45/kWh",
+    "amenities": [
+      "Private Lounge",
+      "Barista",
+      "Restrooms",
+      "WiFi"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-036",
+    "name": "Fresno River Park EA",
+    "network": "Electrify America",
+    "coordinates": [
+      -119.7871,
+      36.8485
+    ],
+    "address": "7660 N Blackstone Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 8,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.48/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-037",
+    "name": "Sacramento Capitol Fast Hub",
+    "network": "EVgo",
+    "coordinates": [
+      -121.4944,
+      38.5816
+    ],
+    "address": "1000 K St",
+    "city": "Sacramento",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 10,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.49/kWh",
+    "amenities": [
+      "Capitol Park",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-038",
+    "name": "San Francisco Financial District",
+    "network": "Tesla",
+    "coordinates": [
+      -122.3999,
+      37.7915
+    ],
+    "address": "450 Mission St",
+    "city": "San Francisco",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 24,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.54/kWh",
+    "amenities": [
+      "Transit Hub",
+      "Dining",
+      "WiFi"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-039",
+    "name": "Silicon Valley Tech Center Hub",
+    "network": "Electrify America",
+    "coordinates": [
+      -121.9678,
+      37.3861
+    ],
+    "address": "3151 Mission College Blvd",
+    "city": "Santa Clara",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 14,
+    "connectors": [
+      "CCS",
+      "CHAdeMO",
+      "NACS"
+    ],
+    "pricing": "$0.48/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-040",
+    "name": "Redding Mountain Gateway",
+    "network": "Tesla",
+    "coordinates": [
+      -122.3789,
+      40.5865
+    ],
+    "address": "900 Dana Dr",
+    "city": "Redding",
+    "state": "CA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 14,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.44/kWh",
+    "amenities": [
+      "Mall",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-041",
+    "name": "Medford Oregon Hub",
+    "network": "Electrify America",
+    "coordinates": [
+      -122.8756,
+      42.3265
+    ],
+    "address": "1600 N Riverside Ave",
+    "city": "Medford",
+    "state": "OR",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 8,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.40/kWh",
+    "amenities": [
+      "Mall",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-042",
+    "name": "Eugene Willamette Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -123.0868,
+      44.0521
+    ],
+    "address": "293 Valley River Ctr",
+    "city": "Eugene",
+    "state": "OR",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 16,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.36/kWh",
+    "amenities": [
+      "Mall",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-043",
+    "name": "Portland Lloyd Center Fast Hub",
+    "network": "Electrify America",
+    "coordinates": [
+      -122.6534,
+      45.5324
+    ],
+    "address": "2201 Lloyd Ctr",
+    "city": "Portland",
+    "state": "OR",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 10,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Transit",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-044",
+    "name": "Seattle Downtown Pike Place Fast Hub",
+    "network": "EVgo",
+    "coordinates": [
+      -122.3381,
+      47.6101
+    ],
+    "address": "1531 7th Ave",
+    "city": "Seattle",
+    "state": "WA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 12,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.46/kWh",
+    "amenities": [
+      "Downtown",
+      "Shopping",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-045",
+    "name": "Ellensburg Mountain Pass Hub",
+    "network": "Tesla",
+    "coordinates": [
+      -120.5478,
+      46.9965
+    ],
+    "address": "1704 S Canyon Rd",
+    "city": "Ellensburg",
+    "state": "WA",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 16,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.38/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-046",
+    "name": "Spokane Valley EA",
+    "network": "Electrify America",
+    "coordinates": [
+      -117.2405,
+      47.6734
+    ],
+    "address": "14700 E Indiana Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 8,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.40/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-047",
+    "name": "Grand Junction High Desert Charger",
+    "network": "Tesla",
+    "coordinates": [
+      -108.5506,
+      39.0639
+    ],
+    "address": "2424 US-6",
+    "city": "Grand Junction",
+    "state": "CO",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 12,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.37/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-048",
+    "name": "Glenwood Springs Mountain Hub",
+    "network": "Electrify America",
+    "coordinates": [
+      -107.3248,
+      39.5505
+    ],
+    "address": "110 W 6th St",
+    "city": "Glenwood Springs",
+    "state": "CO",
+    "power_type": "dc_fast",
+    "kw_output": 150,
+    "ports_count": 6,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.41/kWh",
+    "amenities": [
+      "Hot Springs",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-049",
+    "name": "Silverthorne Summit Fast Hub",
+    "network": "Tesla",
+    "coordinates": [
+      -106.0714,
+      39.63
+    ],
+    "address": "309 Rainbow Dr",
+    "city": "Silverthorne",
+    "state": "CO",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 20,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.39/kWh",
+    "amenities": [
+      "Outlets",
+      "Ski Shuttle",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-050",
+    "name": "Denver Cherry Creek Fast Hub",
+    "network": "EVgo",
+    "coordinates": [
+      -104.9537,
+      39.717
+    ],
+    "address": "3000 E 1st Ave",
+    "city": "Denver",
+    "state": "CO",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 12,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.44/kWh",
+    "amenities": [
+      "Shopping",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-051",
+    "name": "Austin South Congress Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -97.7506,
+      30.2241
+    ],
+    "address": "3801 S Congress Ave",
+    "city": "Austin",
+    "state": "TX",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 20,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.34/kWh",
+    "amenities": [
+      "Dining",
+      "Shopping",
+      "WiFi"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-052",
+    "name": "San Marcos Outlets EA",
+    "network": "Electrify America",
+    "coordinates": [
+      -97.9839,
+      29.8276
+    ],
+    "address": "3939 S Interstate 35",
+    "city": "San Marcos",
+    "state": "TX",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 10,
+    "connectors": [
+      "CCS",
+      "NACS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.40/kWh",
+    "amenities": [
+      "Outlets",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-053",
+    "name": "San Antonio River Walk Hub",
+    "network": "ChargePoint",
+    "coordinates": [
+      -98.4861,
+      29.4241
+    ],
+    "address": "849 E Commerce St",
+    "city": "San Antonio",
+    "state": "TX",
+    "power_type": "level2",
+    "kw_output": 19,
+    "ports_count": 12,
+    "connectors": [
+      "J1772"
+    ],
+    "pricing": "$0.22/kWh",
+    "amenities": [
+      "River Walk",
+      "Historic Sites"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-054",
+    "name": "Columbus Buc-ee's Mega Hub",
+    "network": "Tesla",
+    "coordinates": [
+      -96.5397,
+      29.7066
+    ],
+    "address": "2050 Hwy 71 S",
+    "city": "Columbus",
+    "state": "TX",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 32,
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
+    "pricing": "$0.32/kWh",
+    "amenities": [
+      "Buc-ee's Travel Center",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-055",
+    "name": "Houston Galleria Fast Oasis",
+    "network": "EVgo",
+    "coordinates": [
+      -95.4619,
+      29.7397
+    ],
+    "address": "5085 Westheimer Rd",
+    "city": "Houston",
+    "state": "TX",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 14,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Galleria Mall",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-056",
+    "name": "Waco Silos Supercharger",
+    "network": "Tesla",
+    "coordinates": [
+      -97.1467,
+      31.5493
+    ],
+    "address": "601 S 6th St",
+    "city": "Waco",
+    "state": "TX",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 16,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.33/kWh",
+    "amenities": [
+      "Silos",
+      "Dining",
+      "Shopping"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-057",
+    "name": "Dallas Downtown Arts District",
+    "network": "Electrify America",
+    "coordinates": [
+      -96.797,
+      32.7767
+    ],
+    "address": "1717 N Akard St",
+    "city": "Dallas",
+    "state": "TX",
+    "power_type": "dc_fast",
+    "kw_output": 350,
+    "ports_count": 12,
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Arts District",
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-058",
+    "name": "Fort Stockton Permian Fast Station",
+    "network": "Tesla",
+    "coordinates": [
+      -102.8793,
+      30.894
+    ],
+    "address": "2601 W Dickinson Blvd",
+    "city": "Fort Stockton",
+    "state": "TX",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 8,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.38/kWh",
+    "amenities": [
+      "Restrooms",
+      "Dining"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-059",
+    "name": "Van Horn Interstate Hub",
+    "network": "Tesla",
+    "coordinates": [
+      -104.8308,
+      31.0399
+    ],
+    "address": "1500 W Broadway Blvd",
+    "city": "Van Horn",
+    "state": "TX",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 8,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.39/kWh",
+    "amenities": [
+      "Dining",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-060",
+    "name": "Tonopah Nevada Loneliest Highway Hub",
+    "network": "Tesla",
+    "coordinates": [
+      -117.2307,
+      38.0692
+    ],
+    "address": "1196 S US-95",
+    "city": "Tonopah",
+    "state": "NV",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 8,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.42/kWh",
+    "amenities": [
+      "Clown Motel",
+      "Restrooms",
+      "Diner"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-061",
+    "name": "Ely Nevada Crossroads Charger",
+    "network": "ChargePoint",
+    "coordinates": [
+      -114.8886,
+      39.2474
+    ],
+    "address": "1505 Aultman St",
+    "city": "Ely",
+    "state": "NV",
+    "power_type": "dc_fast",
+    "kw_output": 125,
+    "ports_count": 4,
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
+    "pricing": "$0.38/kWh",
+    "amenities": [
+      "Casino",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  },
+  {
+    "id": "st-062",
+    "name": "Beatty Gateway to Death Valley",
+    "network": "Tesla",
+    "coordinates": [
+      -116.757,
+      36.9091
+    ],
+    "address": "100 N 2nd St",
+    "city": "Beatty",
+    "state": "NV",
+    "power_type": "dc_fast",
+    "kw_output": 250,
+    "ports_count": 8,
+    "connectors": [
+      "NACS"
+    ],
+    "pricing": "$0.44/kWh",
+    "amenities": [
+      "Diner",
+      "Restrooms"
+    ],
+    "status": "Operational"
+  }
+]
